@@ -3,6 +3,7 @@
 ### and here is my stats
   <img src="https://github-readme-stats.vercel.app/api?username=shandikadav&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shandikadav&theme=monokai"/>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandikadav&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
