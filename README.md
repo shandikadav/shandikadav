@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Shandika David Ardiansyah 👋
+
+### and here is my stats
+  <img src="https://github-readme-stats.vercel.app/api?username=shandikadav&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shandikadav&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandikadav&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
 
 <!--
 **shandikadav/shandikadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
