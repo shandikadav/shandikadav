@@ -2,8 +2,6 @@
 <h3 align="center">College Student at University Amikom Yogyakarta</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandikadav&label=Profile%20views&color=0e75b6&style=flat" alt="shandikadav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shandikadav&theme=" alt="shandikadav" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Dart, Flutter**
 - 📫 How to reach me **shandikadavid.business@gmail.com**
@@ -26,8 +24,10 @@
 </p>
 
 <h3 align="left">Stars</h3>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shandikadav&theme=tokyonight" alt="shandikadav" /></p>
+
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandikadav&layout=compact&theme=tokyonight" alt=shandikadav />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shandikadav&show_icons=true&locale=en&theme=tokyonight" alt="shandikadav" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shandikadav&theme=tokyonight" alt="shandikadav" /></p>
+
