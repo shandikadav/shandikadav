@@ -6,6 +6,10 @@
 <p align="center">A passionate Informatics student at Amikom University Yogyakarta. I'm all about embracing new knowledge, team synergy, and thriving under pressure. You'll often find me diving deep into Computer Networking or exploring the exciting world of Mobile Development with Flutter.</p>
 <br>
 
+# 🌐 Connect With Me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shandika-david-ardiansyah-519b2621b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shandikadav_)
+[![Medium](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shanardiansyah.medium.com/)
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -33,10 +37,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shandikadav&theme=tokyonight&hide_border=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shandikadav&theme=tokyonight)
 
-# 🌐 Connect With Me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shandika-david-ardiansyah-519b2621b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shandikadav_)
-[![Medium](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shanardiansyah.medium.com/)
+
 
 
 
