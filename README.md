@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/QWvcEqwGLX0AAAAd/kurumi-tokisaki-date-a-bullet.gif">
+  <img src="https://media1.tenor.com/m/QhH-sEBArV4AAAAC/meow-cute.gif">
 </p>
 
 <h1 align="center">Hello, I'm Shandika David Ardiansyah!</h1>
-<p align="center">A passionate Informatics student at Amikom University Yogyakarta. I'm all about embracing new knowledge, team synergy, and thriving under pressure. You'll often find me diving deep into Computer Networking or exploring the exciting world of Mobile Development with Flutter.</p>
+<p align="center">A passionate Informatics student at Amikom University Yogyakarta. I'm all about embracing new knowledge, team synergy, and thriving under pressure. You'll often find me diving deep into Cloud Computing or exploring the exciting world of Mobile Development with Flutter.</p>
 <br>
 
 # 🌐 Connect With Me
