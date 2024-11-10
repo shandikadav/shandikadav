@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello, I'm Shandika David Ardiansyah!</h1>
-<p align="center">Anime, music, and cloud computing enthusiast. Currently trying to conquer the world of coding while figuring out how to summon my favorite anime character. Informatics student at Amikom University Yogyakarta.</p>
+<p align="center">Anime, Music, and Cloud Computing enthusiast. Currently trying to conquer the world of coding while figuring out how to summon my favorite anime character. Informatics student at Amikom University Yogyakarta.</p>
 <br>
 
 <br>
