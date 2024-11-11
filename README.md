@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://cdn.myanimelist.net/images/anime/1935/127974.jpg" width="200" alt="Steins;Gate Cover">
   <img src="https://cdn.myanimelist.net/images/anime/12/21741.jpg" width="200" alt="Kara no Kyoukai Cover">
+  <img src="https://cdn.myanimelist.net/images/anime/1509/117149.jpg" width="200" alt="Sony Boy Cover">
 </p>
 
 <br>
