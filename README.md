@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/KaC-WmAcx30AAAAd/ao-no-hako-blue-box.gif" width="100%">
+  <img src="https://media1.tenor.com/m/T3W_Ln8s8-wAAAAd/smile-chat.gif" width="50%">
 </p>
 
 <h1 align="center">Hello, I'm Shandika David Ardiansyah!</h1>
