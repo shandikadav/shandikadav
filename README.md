@@ -22,7 +22,7 @@ shandikadav@github:~$ ./welcome.sh
   ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ 
 ```
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://github.com/shandikadav/shandikadav/blob/main/assets/img-iroha.png" alt="iroha" width="300" /> 
 
 ```
 shandikadav@github
@@ -35,15 +35,14 @@ shandikadav@github
 🏴‍☠️ Currently involved in Dept IT Amikom Computer Club
 🚩 Interested in full stack developer
 💖 In a complicated relationship with NUMI Community Indonesia
-🖌️ Love watching Vtubers & Anime
+🪁 Love watching Vtubers & Anime
 🎵 Love celtic, edm, metal
-⚡ Love Mie Ayam
+🍽️ Love Mie Ayam
 ```
 
-<br>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#917b88" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/TryKatChup/TryKatChup/main/img/95e3ed.png" width="25" height="20" />
+<img alt="#917b88" src="https://github.com/shandikadav/shandikadav/blob/main/assets/FFFBEP.png" width="25" height="20" /><img alt="#fdfef6" src="https://github.com/shandikadav/shandikadav/blob/main/assets/CDB0A3.png" width="25" height="20" /><img alt="#91bebb" src="https://github.com/shandikadav/shandikadav/blob/main/assets/D2BB9D.png" width="25" height="20" /><img alt="#feb2bf" src="https://github.com/shandikadav/shandikadav/blob/main/assets/616557.png" width="25" height="20" /><img alt="#95e3ed" src="https://github.com/shandikadav/shandikadav/blob/main/assets/7D7E6B.png" width="25" height="20" />
 </p>
 
 ```console
