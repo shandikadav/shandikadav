@@ -8,9 +8,9 @@
     ⌨️ Flutter • Laravel • Express.js
     🎮 Music • Games • Anime • Code • Linux
 </pre>
-<br>
+<br><br>
 <img src="https://media.tenor.com/xz0WA5Lg9koAAAAj/shuba-shuba-transparent.gif" height="80" />
-<br><br><br><br>
+<br><br>
     
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shandika-david-ardiansyah-519b2621b/)
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shandikadav_/)
