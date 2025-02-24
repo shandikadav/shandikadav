@@ -8,7 +8,7 @@
     ⌨️ Flutter • Laravel • Express.js
     🎮 Music • Games • Anime • Code • Linux
 </pre>
-<br><br>
+<br>
 <img src="https://media.tenor.com/xz0WA5Lg9koAAAAj/shuba-shuba-transparent.gif" height="80" />
 <br><br>
     
