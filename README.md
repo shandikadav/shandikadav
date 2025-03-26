@@ -27,10 +27,10 @@ shandikadav@github:~$ ./welcome.sh
 ```
 shandikadav@github
 -------------------------
-🏫 Informatics student @Amikom University Yogyakarta
-🔎 Main interests in Cloud Computing & Multi-platform Development
-🔭 Working on Mobile development apps
-🌱 Learning about Flutter and Cloud Computing Engineer
+🏫 Informatics student @ Amikom University Yogyakarta
+🔎 Main interests in Multi-platform Development
+🔭 Working on Mobile Development apps
+🌱 Learning about Flutter & Laravel
 🌟 Main languages: Dart, PHP, JavaScript 
 🏴‍☠️ Currently involved in Dept IT Amikom Computer Club
 🚩 Interested in full stack developer
