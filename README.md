@@ -22,31 +22,29 @@ shandikadav@github:~$ ./welcome.sh
   ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ 
 ```
 
-<img align="left" src="https://github.com/shandikadav/shandikadav/blob/main/assets/img-iroha.png" alt="iroha" width="300" /> 
+<img align="left" src="https://github.com/shandikadav/shandikadav/blob/main/assets/img_azki.jpg?raw=true" alt="iroha" width="300" /> 
 
 ```
 shandikadav@github
 -------------------------
-🏫 Informatics student @ Amikom University Yogyakarta
-🔎 Main interests in Multi-platform Development
-🔭 Working on Mobile Development apps
-🌱 Learning about Flutter & Laravel
-🌟 Main languages: Dart, PHP, JavaScript 
-🏴‍☠️ Currently involved in Dept IT Amikom Computer Club
-🚩 Interested in full stack developer
-💖 In a complicated relationship with NUMI Community Indonesia
-🪁 Love watching Vtubers & Anime
-🎵 Love celtic, edm, metal
-🍽️ Love Mie Ayam
+👤 Name            : Shandika David Ardiansyah
+🎓 Status          : Informatics Student @ Universitas Amikom Yogyakarta
+💼 Current Role    : Flutter Developer | IT Department @ AMCC
+📦 Stack           : Dart, Flutter, Firebase, GCP (Compute Engine, Cloud Run)
+🧠 Interests       : Mobile Development, Cloud Computing, AI Integration
+📱 Projects        : seimbang.in, jogjatour_app, 
+🎯 Goals           : Building cross-platform apps, mastering GCP, and contributing to impactful tech communities
+📺 Personality     : Anime-watching, lo-fi-listening, bug-fixing type of developer
+🛠️ Philosophy     : Write clean code, break stuff, learn fast, repeat 🔁
 ```
 <br><br>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#917b88" src="https://github.com/shandikadav/shandikadav/blob/main/assets/FFFBEP.png" width="25" height="20" /><img alt="#fdfef6" src="https://github.com/shandikadav/shandikadav/blob/main/assets/CDB0A3.png" width="25" height="20" /><img alt="#91bebb" src="https://github.com/shandikadav/shandikadav/blob/main/assets/D2BB9D.png" width="25" height="20" /><img alt="#feb2bf" src="https://github.com/shandikadav/shandikadav/blob/main/assets/616557.png" width="25" height="20" /><img alt="#95e3ed" src="https://github.com/shandikadav/shandikadav/blob/main/assets/7D7E6B.png" width="25" height="20" />
+<img alt="#917b88" src="https://github.com/shandikadav/shandikadav/blob/main/assets/4E3C4D.png?raw=true" width="25" height="20" /><img alt="#fdfef6" src="https://github.com/shandikadav/shandikadav/blob/main/assets/ECD3D0.png?raw=true" width="25" height="20" /><img alt="#91bebb" src="https://github.com/shandikadav/shandikadav/blob/main/assets/C97F9B.png?raw=true" width="25" height="20" /><img alt="#feb2bf" src="https://github.com/shandikadav/shandikadav/blob/main/assets/856F84.png?raw=true" width="25" height="20" /><img alt="#95e3ed" src="https://github.com/shandikadav/shandikadav/blob/main/assets/583F51.png?raw=true" width="25" height="20" />
 </p>
 
 ```console
-shandikadav@github:~$ sudo echo "* * * * * /usr/local/bin/code" >> /tmp/crontab$$
+shandikadav@github:~$ sudo ./profile --load
 ```
 
 ```
