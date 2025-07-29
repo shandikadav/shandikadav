@@ -1,82 +1,74 @@
-```console
-shandikadav@github:~$ ./welcome.sh
-```
+<table>
+  <tr>
+    <td>
+      <h1 align="left">Hi there, I'm Shandika 👋</h1>
+      <h3 align="left">A Developer, Lifelong Learner, and Tech Enthusiast from Indonesia.</h3>
+      <p align="left">
+        I’m an Informatics student at <b>Universitas Amikom Yogyakarta</b> with a strong passion for mobile development and cloud technology. Currently, I’m actively working as a <b>Flutter developer</b>, building modern, cross-platform applications that focus on performance, usability, and accessibility.
+        <br/><br/>
+        With hands-on experience in Flutter and familiarity with cloud services like <b>Google Cloud Platform</b>—including Compute Engine and Cloud Run—I aim to build scalable, seamless solutions that bridge mobile and cloud ecosystems.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media1.tenor.com/m/dZ7rbTyYOIAAAAAC/azki-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-```
- _____________________________________
-< Welcome to shandikadav github page! >
- ------------------------------------- 
-  ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷
-  ⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇
-  ⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽
-  ⡗⢰⣶⣶⣦⣝⢝⢕⢕⠅⡆⢕⢕⢕⢕⢕⣴⠏⣠⡶⠛⡉⡉⡛⢶⣦⡀⠐⣕⢕
-  ⡝⡄⢻⢟⣿⣿⣷⣕⣕⣅⣿⣔⣕⣵⣵⣿⣿⢠⣿⢠⣮⡈⣌⠨⠅⠹⣷⡀⢱⢕
-  ⡝⡵⠟⠈⢀⣀⣀⡀⠉⢿⣿⣿⣿⣿⣿⣿⣿⣼⣿⢈⡋⠴⢿⡟⣡⡇⣿⡇⡀⢕
-  ⡝⠁⣠⣾⠟⡉⡉⡉⠻⣦⣻⣿⣿⣿⣿⣿⣿⣿⣿⣧⠸⣿⣦⣥⣿⡇⡿⣰⢗⢄
-  ⠁⢰⣿⡏⣴⣌⠈⣌⠡⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣬⣉⣉⣁⣄⢖⢕⢕⢕
-  ⡀⢻⣿⡇⢙⠁⠴⢿⡟⣡⡆⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣵⣵⣿
-  ⡻⣄⣻⣿⣌⠘⢿⣷⣥⣿⠇⣿⣿⣿⣿⣿⣿⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-  ⣷⢄⠻⣿⣟⠿⠦⠍⠉⣡⣾⣿⣿⣿⣿⣿⣿⢸⣿⣦⠙⣿⣿⣿⣿⣿⣿⣿⣿⠟
-  ⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠
-  ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
-  ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ 
-```
+---
 
-<img align="left" src="https://github.com/shandikadav/shandikadav/blob/main/assets/img_azki.jpg?raw=true" alt="azunyan" width="300" /> 
+### 🚀 Tech Stack & Tools
 
-```
-shandikadav@github
--------------------------
-👤 Name         : Shandika David Ardiansyah
-🎓 Status       : Informatics Student @ Universitas Amikom Yogyakarta
-💼 Current Role : Flutter Developer | IT Department @ AMCC
-📦 Stack        : Dart, Flutter, Firebase, GCP (Compute Engine, Cloud Run)
-🔧 Tools        : Zed, Git, Figma, Fedora, Terminal
-🧠 Interests    : Mobile Development, Cloud Computing, AI Integration
-🎯 Goals        : Building cross-platform apps
-🍜 Fuel         : Coffee ☕, Mie Ayam 🍜, and Stack Overflow threads
-📺 Personality  : Anime-watching, Anisong-listening, bug-fixing type of developer
-🛠️ Philosophy   : Write code, break stuff, learn fast, repeat 🔁
-🚩 Long-Term    : Becoming a well-rounded Full Stack Developer
-```
-<br>
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#917b88" src="https://github.com/shandikadav/shandikadav/blob/main/assets/4E3C4D.png?raw=true" width="25" height="20" /><img alt="#fdfef6" src="https://github.com/shandikadav/shandikadav/blob/main/assets/ECD3D0.png?raw=true" width="25" height="20" /><img alt="#91bebb" src="https://github.com/shandikadav/shandikadav/blob/main/assets/C97F9B.png?raw=true" width="25" height="20" /><img alt="#feb2bf" src="https://github.com/shandikadav/shandikadav/blob/main/assets/856F84.png?raw=true" width="25" height="20" /><img alt="#95e3ed" src="https://github.com/shandikadav/shandikadav/blob/main/assets/583F51.png?raw=true" width="25" height="20" />
+<details>
+  <summary><b>💻 Core Stack</b> (Click to Expand)</summary>
+  <br/>
+  <p align="left">
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🌱 Currently Learning</b> (Click to Expand)</summary>
+  <br/>
+  <p align="left">
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/></a>
+  </p>
+</details>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shandikadav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandikadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shandikadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-```console
-shandikadav@github:~$ sudo ./profile --load
-```
+---
 
-```
-[sudo] Password for shandikadav:
+### 📬 Let's Connect!
 
-Authenticating... 
+<p align="center">
+  <a href="https://linkedin.com/in/shandikadavid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/shandikadav" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:shandikadavid@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Loading modules: [InformaticsStudent, FlutterDev, AMCC]
-
-Path: /home/shandikadav/profile.json
-
-Execution started...
-                   
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢡⣶⡏⣿⠆⠀⣴⣿⡇⡀⠀⠀⠀⢸⣿⣦⢢⣄⠢⡘⢿⣿⣿⣶⣄⡀⠂⠐⢿⣿⣿⣿⢦⣔⠿⣶⣦⡀⠸⣿⣿⣿⣶⠰⡙⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⣿⣿⢁⣿⠀⣸⣿⡟⣸⡇⠀⠀⠀⠘⣿⣿⡈⠸⣄⢠⡒⢝⢿⣿⣿⣿⣶⣄⡀⠙⢿⣧⡕⢌⠳⣬⡃⢝⠢⢌⠻⣿⣿⣇⢻⡌⢿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⢠⢹⣿⢱⡟⢠⡆⠀⠀⠀⢹⡋⡳⠁⢿⡘⣿⣶⣄⠈⠋⡻⢿⣿⣿⣆⡂⠙⢿⣷⣦⣾⣿⣷⣦⣄⣀⣀⠉⠛⠈⠿⠌⠿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠻⢸⡏⠀⣼⡇⠜⣰⣿⣿⡄⠀⠀⠀⠣⢷⠁⠈⣧⢻⣿⣿⡿⠂⠈⣑⠮⣙⠻⣿⣦⠠⡌⡛⢿⣿⣿⣿⡿⣿⣿⣿⠿⠿⢋⣅⠘⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⡇⢰⡿⠁⣰⣿⣿⣿⣷⡀⠀⠀⠀⠢⡃⣦⠹⡘⣿⠏⠀⣰⣾⣿⣷⠄⠉⠀⠈⠁⢱⣬⣒⠬⡙⠻⠶⣦⣤⣄⣒⠃⣩⣼⣧⡙⢿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠨⠃⠚⡄⣼⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠙⣿⣆⠣⢫⠀⣰⡿⢛⠡⠈⠀⠀⠀⢀⠀⠀⢻⣿⣷⣤⢳⣤⣐⣒⡂⣾⡿⠻⣿⣿⣿⣎⢻⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠈⢰⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠂⠺⣿⣧⠈⣷⡟⠀⠀⡄⠀⠀⠀⠀⠈⣿⠀⡘⣿⡿⣿⢸⣿⣿⣿⠁⣿⡇⠑⠌⢿⣿⣿⣧⢹⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⢿⡆⠀⠀⠀⢸⡿⢋⣥⣤⣤⣤⣀⡈⠙⠳⠀⠀⠁⡹⣿⡧⡘⣧⡄⢸⡇⠀⢀⠀⠀⠀⡟⢠⣧⢹⢻⣿⣸⡏⡿⠃⠀⣿⠁⠀⠈⠎⠘⡇⢻⣧⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢧⠀⠀⠀⠈⡸⣿⣿⣿⣿⣿⣿⣿⣶⣤⣜⠀⠀⠑⢜⢷⡀⠈⠳⣮⡛⠎⠛⠐⠋⣈⣼⣿⣿⢸⢸⠇⠟⠈⠀⠀⢠⠃⠀⠀⠀⠀⢦⢠⣷⣽⣿
-⣿⣿⣿⣿⣿⣿⢿⡿⠿⠿⢿⣿⡇⣆⠀⠀⠀⠀⢳⣮⠙⠛⠉⠙⠉⠀⠀⠈⠉⣷⣄⢄⠀⠀⣛⠎⠢⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⢈⡠⢠⢗⠀⠀⠀⠀⠀⠀⢀⡀⢾⣇⣿⣿⣿
-⣿⣿⣟⡃⠊⠀⠤⢤⣌⠁⠐⢤⣅⠙⠀⠀⠀⠤⡈⢫⠄⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣦⣁⠄⣠⣤⣌⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠈⠘⣁⣵⡿⠀⠀⠀⠀⠁⠙⠸⢡⡌⢿⣿⣿⣿
-⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⡄⠀⢤⣀⠈⠈⠏⢾⣿⡿⢛⣭⠥⠈⢹⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢀⣿⣿⣿⠇⠀⢀⠀⠀⡘⣠⣁⣾⣿⣾⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠈⢻⣿⣶⣦⡌⠑⣚⣩⠖⣩⢆⣾⣿⣿⣿⣿⣿⣿⣭⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⠀⢀⢰⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡀⠹⣿⣿⣿⣶⣌⡰⡇⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠉⠉⡁⢀⣿⣿⣿⡟⡀⢸⣿⣿⡏⠀⠀⣧⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠙⢿⣿⣿⣷⡄⠀⢹⢸⣿⣿⣿⣿⠿⠋⠀⣀⡈⠁⠀⣾⡇⢸⣿⣿⣿⡿⠁⢸⣿⡟⡇⠉⣰⠻⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⣬⣙⠿⣷⠀⡈⢇⢿⣿⣿⣿⣦⡀⢯⡰⣧⢱⣴⣿⡇⣸⣿⣿⡿⢁⠀⢸⣿⠁⠇⣰⣿⣷⣄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⣸⡿⢿⣷⡮⠰⡘⠂⠈⠿⣿⣿⣿⣷⣌⢿⣦⣽⣿⣿⡇⣿⣿⡟⣡⣿⡄⢸⣿⠀⡄⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⣦⣤⣴⣿⣷⣦⡔⣿⡄⡘⠂⠠⠈⠛⠿⣿⣿⣮⠻⣿⣿⠟⢡⣿⢏⣼⣿⣿⢡⡸⣿⣧⡀⡻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠲⠶⠶⠮⠭⠭⠍⠛⠋⠀⢈⣋⠀⠀⣠⣎⠺⣿⣶⣄⡉⠛⠶⣶⡶⠟⣡⣾⣿⣿⣿⣾⢡⣍⢹⣷⠀⠐⠈⠻⠿⠿⠿⠿⠿⠿⠻⠻⠟⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+<p align="center">
+  <a href="https://github.com/shandikadav">
+    <img src="https://komarev.com/ghpvc/?username=shandikadav&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
+  </a>
+</p>
