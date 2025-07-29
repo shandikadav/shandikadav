@@ -10,7 +10,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.tenor.com/m/dZ7rbTyYOIAAAAAC/azki-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" alt="Coding GIF" />
+      <img src="https://media1.tenor.com/m/DPfICDPwRf8AAAAd/azki-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" alt="Coding GIF" />
     </td>
   </tr>
 </table>
