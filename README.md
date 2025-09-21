@@ -10,7 +10,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.tenor.com/m/DPfICDPwRf8AAAAd/azki-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" alt="Coding GIF" />
+      <img src="https://media1.tenor.com/m/GgXRunBOFRcAAAAd/azki-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" alt="AZki" />
     </td>
   </tr>
 </table>
@@ -30,7 +30,18 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🛠️ Tools & IDEs</b> (Click to Expand)</summary>
+  <br/>
+  <p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+    <a href="https://obsidian.md/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/></a>
   </p>
 </details>
 
@@ -39,6 +50,7 @@
   <br/>
   <p align="left">
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/></a>
