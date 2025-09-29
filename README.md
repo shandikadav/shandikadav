@@ -2,11 +2,11 @@
   <tr>
     <td>
       <h1 align="left">Hi there, I'm Shandika 👋</h1>
-      <h3 align="left">A Developer, Lifelong Learner, and Tech Enthusiast from Indonesia.</h3>
+      <h3 align="left">An Android Developer | Flutter & Jetpack Compose Enthusiast.</h3>
       <p align="left">
-        I’m an Informatics student at <b>Universitas Amikom Yogyakarta</b> with a strong passion for mobile development and cloud technology. Currently, I’m actively working as a <b>Flutter developer</b>, building modern, cross-platform applications that focus on performance, usability, and accessibility.
+        I'm an <b>Android Developer</b> from Indonesia with a passion for designing and building mobile applications that are not only functional but also deliver an exceptional user experience. I believe in the power of clean code, solid architecture, and intuitive UI.
         <br/><br/>
-        With hands-on experience in Flutter and familiarity with cloud services like <b>Google Cloud Platform</b>—including Compute Engine and Cloud Run—I aim to build scalable, seamless solutions that bridge mobile and cloud ecosystems.
+        My expertise covers cross-platform development using <b>Flutter</b> to create beautiful and efficient products from a single codebase, as well as native development with <b>Jetpack Compose</b> to build modern, high-performance UIs specifically for the Android ecosystem. To complement this, I also have experience with <b>Google Cloud Platform (GCP)</b> to ensure the applications I build are supported by a scalable and reliable back-end architecture.
       </p>
     </td>
     <td width="40%" align="center">
