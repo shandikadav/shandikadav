@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" width="30%">
-      <img src="https://media1.tenor.com/m/GgXRunBOFRcAAAAd/azki-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" width="100%" alt="AZKi Album Art" style="border-radius: 10px;" />
+      <img src="https://media1.tenor.com/m/4bGrDG6rb8QAAAAC/azki-azki-diva.gif" width="100%" alt="AZKi Album Art" style="border-radius: 10px;" />
     </td>
     <td width="5%"></td>
     <td width="65%">
@@ -18,7 +18,7 @@
         <i>"Coding mobile apps with clean architecture while vibing to AZKi. Currently expanding my universe from Android/Flutter to the Apple Ecosystem with Swift & Vapor."</i>
       </blockquote>
       <br/>
-      <a href="https://github.com/shandikadav"><img src="https://img.shields.io/badge/Follow-Shandika-success?style=for-the-badge&logo=github"/></a>
+      <a href="https://github.com/shandikadav"><img src="https://img.shields.io/badge/Follow-Shandikadav-success?style=for-the-badge&logo=github"/></a>
     </td>
   </tr>
 </table>
