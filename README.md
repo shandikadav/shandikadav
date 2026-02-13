@@ -23,23 +23,21 @@ Terminal enjoyer
     margin:auto;
     flex-wrap:wrap;
   ">
-
     <img 
       src="assets/azki-1.gif"
       alt="AZKi Main"
       style="
-        width:65%;
+        width:60%;
         min-width:260px;
         border-radius:16px;
         box-shadow: 0 8px 24px rgba(0,0,0,0.3);
       "
     />
-
     <img 
       src="assets/azki-2.gif"
       alt="AZKi Side"
       style="
-        width:30%;
+        width:34%;
         min-width:180px;
         border-radius:16px;
         box-shadow: 0 8px 24px rgba(0,0,0,0.3);
