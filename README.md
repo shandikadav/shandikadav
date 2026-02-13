@@ -1,91 +1,120 @@
-```
-~/shandika $ echo $USER
-shandika
+<pre>
+[    0.000000] Booting Fedora (KDE) ...
+[    0.382194] Loading kernel modules...
+[    0.947221] Enabling SELinux: enforcing
+[    1.337812] Mounting /home/shandika
+[    1.772311] Detecting developer mindset...
+[    2.004221] Initializing Zed editor...
+[    2.441092] Launching terminal (zsh)
+[    2.903221] Starting minecraft_infra.service
+[    3.114552] Mounting /apple_ecosystem
+[    3.552901] Starting numi-daemon.service
+[    3.883120] systemd: Reached target Multi-User.
+[    4.002331] systemd: Started shandika.service
 
-~/shandika $ cat about.txt
-Mobile Developer
-Founder @ Numi Community (https://numicommunity.web.id)
-Apple Developer Academy @ UC Jakarta — Cohort 2026
-Fedora (KDE) user
-Terminal enjoyer
-```
+Fedora 43 (KDE Plasma Dekstop)
+Kernel 6.18.9-200.fc43.x86_64
+Status: operational
+</pre>
 
 <br/>
+
+<pre>
+~/shandika $ whoami
+shandika
+
+~/shandika $ cat profile.txt
+Mobile Developer
+Apple Developer Academy @ UC Jakarta — Cohort 2026
+Founder @ NUMI (Community • Dev • Brand)
+Fedora (KDE) user
+Zed editor enjoyer
+Terminal native
+</pre>
+
 <br/>
 
 <div align="center">
-  <div style="
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    gap:18px;
-    max-width:900px;
-    margin:auto;
-    flex-wrap:wrap;
-  ">
-    <img 
-      src="assets/azki-1.gif"
-      alt="AZKi Main"
-      style="
-        width:60%;
-        min-width:260px;
-        border-radius:16px;
-        box-shadow: 0 8px 24px rgba(0,0,0,0.3);
-      "
-    />
-    <img 
-      src="assets/azki-2.gif"
-      alt="AZKi Side"
-      style="
-        width:34%;
-        min-width:180px;
-        border-radius:16px;
-        box-shadow: 0 8px 24px rgba(0,0,0,0.3);
-      "
-    />
-
-  </div>
+  <img src="assets/azki-1.gif" width="85%" />
 </div>
 
 <br/>
-<br/>
 
-```bash
+<hr/>
+
+<pre>
+$ systemctl status numi-daemon
+
+● numi-daemon.service - NUMI Core Identity Engine
+     Loaded: loaded (/usr/lib/systemd/system/numi.service)
+     Active: active (running)
+     Since: 2018
+     Docs: https://numicommunity.web.id
+
+     ├─ Community: online
+     ├─ Dev Division: building
+     └─ Merch Pipeline: warming up
+</pre>
+
+<hr/>
+
+<pre>
 $ tree tech_stack
 .
-├── main
+├── mobile
 │   ├── kotlin
 │   ├── flutter
 │   └── dart
 └── apple_arc
     ├── swift
+    ├── swiftui   # next mission
     └── vapor
-```
+</pre>
 
-- 📱 Building mobile apps with clean architecture  
-- 🍎 Deep diving into the Apple ecosystem  
-- 🧠 Interested in system design & scalable systems  
-- 🎧 Coding while looping AZKi  
+<hr/>
 
----
+<pre>
+$ tree side_quests
+.
+├── minecraft_infra
+│   ├── papermc
+│   ├── purpurmc
+│   └── forge
+└── numi
+    ├── community
+    ├── dev
+    └── merch   # loading...
+</pre>
 
-### 🛠 environment
+<ul>
+  <li>📱 Building mobile apps with clean architecture</li>
+  <li>🍎 Deep diving into the Apple ecosystem (Swift, Vapor → SwiftUI soon)</li>
+  <li>🧠 Interested in system design & scalable backend systems</li>
+  <li>🛠 Treating Minecraft servers like production infra</li>
+  <li>🎮 Building NUMI into a solid gaming culture → future brand</li>
+</ul>
 
-```bash
+<hr/>
+
+<h3>🛠 environment</h3>
+
+<pre>
 editor="zed"
 shell="zsh"
-os="fedora"
+terminal="konsole"
+os="fedora (kde)"
 
-# Stable enough to work.
-# New enough to matter.
+# Stable enough to ship.
+# Cutting-edge enough to matter.
 # Good enough for Linus.
-```
+</pre>
 
----
+<hr/>
 
-### 📫 contact
+<h3>📫 contact</h3>
 
-```bash
+<pre>
 linkedin="linkedin.com/in/shandikadav-519b2621b"
 email="shandikadav@protonmail.com"
-```
+website="https://shandikadav.my.id"
+</pre>
