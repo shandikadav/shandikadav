@@ -1,24 +1,26 @@
-<div align="center">
-  <img 
-    src="https://media1.tenor.com/m/-5IZHqE1E2sAAAAC/azki-hololive.gif"
-    alt="AZKi Header"
-    width="100%"
-  />
-</div>
-
-<br/>
-
 ```
 ~/shandika $ echo $USER
 shandika
 
 ~/shandika $ cat about.txt
 Mobile Developer
-Founder @ NUMI Community (https://numicommunity.web.id)
+Founder @ Numi Community (https://numicommunity.web.id)
 Apple Developer Academy @ UC Jakarta — Cohort 2026
 Fedora (KDE) user
 Terminal enjoyer
 ```
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://media1.tenor.com/m/-5IZHqE1E2sAAAAC/azki-hololive.gif"
+    alt="AZKi"
+    width="70%"
+  />
+</div>
+
+<br/>
 
 ```bash
 $ tree tech_stack
