@@ -11,15 +11,45 @@ Terminal enjoyer
 ```
 
 <br/>
+<br/>
 
 <div align="center">
-  <img 
-    src="https://media1.tenor.com/m/-5IZHqE1E2sAAAAC/azki-hololive.gif"
-    alt="AZKi"
-    width="70%"
-  />
+  <div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:18px;
+    max-width:900px;
+    margin:auto;
+    flex-wrap:wrap;
+  ">
+
+    <img 
+      src="assets/azki-1.gif"
+      alt="AZKi Main"
+      style="
+        width:65%;
+        min-width:260px;
+        border-radius:16px;
+        box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+      "
+    />
+
+    <img 
+      src="assets/azki-2.gif"
+      alt="AZKi Side"
+      style="
+        width:30%;
+        min-width:180px;
+        border-radius:16px;
+        box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+      "
+    />
+
+  </div>
 </div>
 
+<br/>
 <br/>
 
 ```bash
