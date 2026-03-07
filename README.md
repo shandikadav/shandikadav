@@ -10,7 +10,7 @@
 [    3.114552] Mounting /apple_ecosystem
 [    3.552901] Starting numi-daemon.service
 [    3.883120] systemd: Reached target Multi-User.
-[    4.002331] systemd: Started shandika.service
+[    4.002331] systemd: Started shandikadav.service
 
 Fedora 43 (KDE Plasma Dekstop)
 Kernel 6.18.9-200.fc43.x86_64
@@ -27,7 +27,7 @@ shandika
 Mobile Developer
 Apple Developer Academy @ UC Jakarta — Cohort 2026
 Founder @ NUMI (Community • Dev • Brand)
-Fedora (KDE) user
+Fedora user
 Zed editor enjoyer
 Terminal native
 </pre>
@@ -35,7 +35,7 @@ Terminal native
 <br/>
 
 <div align="center">
-  <img src="assets/azki-1.gif" width="85%" />
+  <img src="assets/akane.gif" width="85%" />
 </div>
 
 <br/>
@@ -102,7 +102,7 @@ $ tree side_quests
 editor="zed"
 shell="zsh"
 terminal="konsole"
-os="fedora (kde)"
+os="fedora"
 
 # Stable enough to ship.
 # Cutting-edge enough to matter.
