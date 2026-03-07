@@ -1,5 +1,5 @@
 <pre>
-[    0.000000] Booting Fedora (KDE) ...
+[    0.000000] Booting Fedora Workstation (KDE Plasma) ...
 [    0.382194] Loading kernel modules...
 [    0.947221] Enabling SELinux: enforcing
 [    1.337812] Mounting /home/shandika
@@ -9,17 +9,21 @@
 [    2.903221] Starting minecraft_infra.service
 [    3.114552] Mounting /apple_ecosystem
 [    3.552901] Starting numi-daemon.service
-[    3.883120] systemd: Reached target Multi-User.
+[    3.883120] systemd: Reached target Multi-User
 [    4.002331] systemd: Started shandikadav.service
+[    4.212114] Welcome back, shandika.
 
-Fedora 43 (KDE Plasma Dekstop)
-Kernel 6.18.9-200.fc43.x86_64
+Fedora Workstation (KDE Plasma)
+Kernel 6.x
 Status: operational
 </pre>
 
 <br/>
 
 <pre>
+~/shandika $ uptime
+8 years, still compiling
+
 ~/shandika $ whoami
 shandika
 
@@ -27,8 +31,7 @@ shandika
 Mobile Developer
 Apple Developer Academy @ UC Jakarta — Cohort 2026
 Founder @ NUMI (Community • Dev • Brand)
-Fedora user
-Zed editor enjoyer
+Linux user
 Terminal native
 </pre>
 
@@ -43,13 +46,51 @@ Terminal native
 <hr/>
 
 <pre>
+~/shandika $ system-migrate --target=apple-silicon
+
+[ INFO ] Backing up dotfiles
+[ INFO ] Syncing development environment
+[ INFO ] Installing brew toolchain
+[ INFO ] Migrating projects
+[ OK   ] Migration completed
+
+[ INFO ] Linux mindset successfully preserved
+</pre>
+
+<br/>
+
+<pre>
+╰─± fastfetch
+                     ..'          shandikadav@Shandikas-MacBook-Pro
+                 ,xNMM.           ---------------------------------
+               .OMMMMo            OS: macOS Tahoe 26.3 (25D125) arm64
+               lMM"               Host: MacBook Pro (14-inch, M5)
+     .;loddo:.  .olloddol;.       Kernel: Darwin 25.3.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:     Uptime: 3 days, 18 hours
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.     Packages: brew
+ XMMMMMMMMMMMMMMMMMMMMMMMX.       Shell: zsh
+;MMMMMMMMMMMMMMMMMMMMMMMM:        WM: Quartz Compositor
+:MMMMMMMMMMMMMMMMMMMMMMMM:        Terminal: Apple Terminal
+.MMMMMMMMMMMMMMMMMMMMMMMMX.       CPU: Apple M5
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.     GPU: Apple Silicon
+ 'XMMMMMMMMMMMMMMMMMMMMMMMMMMk    Memory: 24 GB
+</pre>
+
+<br/>
+
+<hr/>
+
+<pre>
 $ systemctl status numi-daemon
 
 ● numi-daemon.service - NUMI Core Identity Engine
      Loaded: loaded (/usr/lib/systemd/system/numi.service)
      Active: active (running)
      Since: 2018
-     Docs: https://numicommunity.web.id
+   Main PID: 1337
+      Tasks: 4
+     Memory: passion
+     CGroup: /system.slice/numi.service
 
      ├─ Community: online
      ├─ Dev Division: building
@@ -65,6 +106,10 @@ $ tree tech_stack
 │   ├── kotlin
 │   ├── flutter
 │   └── dart
+├── web
+│   ├── react
+│   ├── typescript
+│   └── tailwindcss
 └── apple_arc
     ├── swift
     ├── swiftui   # next mission
@@ -76,6 +121,8 @@ $ tree tech_stack
 <pre>
 $ tree side_quests
 .
+├── linux_customization
+│   └── plasma_splash
 ├── minecraft_infra
 │   ├── papermc
 │   ├── purpurmc
@@ -88,9 +135,9 @@ $ tree side_quests
 
 <ul>
   <li>📱 Building mobile apps with clean architecture</li>
-  <li>🍎 Deep diving into the Apple ecosystem (Swift, Vapor → SwiftUI soon)</li>
+  <li>🍎 Deep diving into the Apple ecosystem (Swift, Vapor → SwiftUI)</li>
   <li>🧠 Interested in system design & scalable backend systems</li>
-  <li>🛠 Treating Minecraft servers like production infra</li>
+  <li>🛠 Treating Minecraft servers like production infrastructure</li>
   <li>🎮 Building NUMI into a solid gaming culture → future brand</li>
 </ul>
 
@@ -101,8 +148,10 @@ $ tree side_quests
 <pre>
 editor="zed"
 shell="zsh"
-terminal="konsole"
-os="fedora"
+terminal="apple terminal"
+
+hardware="apple silicon (m5)"
+mindset="linux"
 
 # Stable enough to ship.
 # Cutting-edge enough to matter.
@@ -117,4 +166,5 @@ os="fedora"
 linkedin="linkedin.com/in/shandikadav-519b2621b"
 email="shandikadav@protonmail.com"
 website="https://shandikadav.my.id"
+community="https://numicommunity.web.id"
 </pre>
