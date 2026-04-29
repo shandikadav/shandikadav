@@ -40,7 +40,7 @@ Apple development machine
 <br/>
 
 <div align="center">
-  <img src="assets/akane.gif" width="85%" />
+  <img src="assets/kurumi.gif" width="85%" />
 </div>
 
 <br/>
@@ -90,7 +90,7 @@ $ tree tech_stack
 │   ├── react
 │   ├── typescript
 │   └── tailwindcss
-└── apple_arc
+└── apple_ecosystem
     ├── swift
     ├── swiftui   # next mission
     └── vapor
