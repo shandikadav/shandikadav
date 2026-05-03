@@ -1,46 +1,35 @@
 <pre>
-[    0.000000] Booting Fedora Workstation (KDE Plasma) ...
-[    0.382194] Loading kernel modules...
-[    0.947221] Enabling SELinux: enforcing
+[    0.000000] Booting system...
 [    1.337812] Mounting /home/shandika
-[    1.772311] Detecting developer mindset...
-[    2.004221] Initializing Zed editor...
-[    2.441092] Launching terminal (zsh)
-[    2.903221] Starting minecraft_infra.service
-[    3.114552] Mounting /apple_ecosystem
-[    3.552901] Starting numi-daemon.service
-[    3.883120] systemd: Reached target Multi-User
-[    4.002331] systemd: Started shandikadav.service
-[    4.212114] Welcome back, shandikadav.
+[    2.004221] Initializing environment
+[    3.114552] Loading apple_ecosystem
+[    3.552901] Starting numi-daemon
+[    4.002331] System ready
 
-Fedora Workstation (KDE Plasma)
-Kernel 6.18.9-200.fc43.x86_64
-Status: operational
+shandikadav@system:~$ _
 </pre>
 
 <br/>
 
 <pre>
-~/shandikadav $ uptime
-8 years, still compiling
-
-~/shandikadav $ whoami
+$ whoami
 shandikadav
 
-~/shandikadav $ cat profile.txt
-Mobile Developer
-Apple Developer Academy @ UC Jakarta — Cohort 2026
-Founder @ NUMI (Community • Dev • Brand)
+$ cat about.txt
+not a programmer.
 
-Environment:
-Linux workstation
-Apple development machine
+just someone who builds things,
+explores systems,
+and occasionally ships ideas.
+
+Apple Developer Academy @ UC Jakarta — Cohort 2026  
+Founder @ NUMI (Community • Dev • Brand)
 </pre>
 
 <br/>
 
 <div align="center">
-  <img src="assets/kurumi.gif" width="85%" />
+  <img src="assets/kurumi.gif" width="75%" />
 </div>
 
 <br/>
@@ -48,39 +37,22 @@ Apple development machine
 <hr/>
 
 <pre>
-~/shandikadav $ system-migrate --target=apple-development
-
-[ INFO ] Preparing Apple development environment
-[ INFO ] Syncing repositories
-[ INFO ] Migrating development toolchain
-[ INFO ] Preserving Linux workstation
-
-[ OK   ] Migration completed
-[ INFO ] Hybrid environment active
+$ ls devices/
+.
+├── macbook_pro_m5
+│   └── role: apple development machine
+│
+└── hp_240_g5
+    ├── cpu: i3-6006U
+    ├── ram: 12GB
+    └── os: fedora 43 (kde plasma)
+        role: linux workstation
 </pre>
 
 <hr/>
 
 <pre>
-$ systemctl status numi-daemon
-
-● numi-daemon.service - NUMI Core Identity Engine
-     Loaded: loaded (/usr/lib/systemd/system/numi.service)
-     Active: active (running)
-     Since: 2018
-   Main PID: 1337
-      Tasks: 4
-     Memory: passion
-
-     ├─ Community: online
-     ├─ Dev Division: building
-     └─ Merch Pipeline: warming up
-</pre>
-
-<hr/>
-
-<pre>
-$ tree tech_stack
+$ tree tech
 .
 ├── mobile
 │   ├── kotlin
@@ -90,61 +62,40 @@ $ tree tech_stack
 │   ├── react
 │   ├── typescript
 │   └── tailwindcss
-└── apple_ecosystem
+└── apple
     ├── swift
-    ├── swiftui   # next mission
-    └── vapor
+    ├── swiftui
 </pre>
 
 <hr/>
 
 <pre>
-$ tree environments
-.
-├── linux_workstation
-│   ├── fedora
-│   ├── kde_plasma
-│   └── system_customization
-└── apple_dev_machine
-    ├── swift
-    ├── ios_development
-    └── apple_toolchain
+$ cat notes.txt
+- building mobile things
+- learning apple ecosystem
+- keeping linux close
+- treating side projects seriously
 </pre>
 
 <hr/>
 
-<ul>
-  <li>📱 Building mobile apps with clean architecture</li>
-  <li>🍎 Exploring the Apple ecosystem (Swift, Vapor → SwiftUI)</li>
-  <li>🐧 Maintaining a Linux workstation for experimentation and customization</li>
-  <li>🛠 Treating Minecraft servers like production infrastructure</li>
-  <li>🎮 Building NUMI into a solid gaming culture → future brand</li>
-</ul>
-
-<hr/>
-
-<h3>🛠 environment</h3>
-
 <pre>
-editor="zed"
-shell="zsh"
-terminals=["konsole","apple terminal"]
+$ env
+editor=zed
+shell=zsh
 
-primary_dev="apple ecosystem"
-workstation="fedora (kde plasma)"
+primary=macbook
+secondary=linux workstation
 
-# Stable enough to ship.
-# Curious enough to explore.
-# Good enough for Linus.
+# still figuring things out
 </pre>
 
 <hr/>
 
-<h3>📫 contact</h3>
-
 <pre>
-linkedin="linkedin.com/in/shandikadav-519b2621b"
-email="shandikadav@protonmail.com"
-website="https://shandikadav.my.id"
-community="https://numicommunity.web.id"
+$ contact
+linkedin=linkedin.com/in/shandikadav-519b2621b
+email=shandikadav@protonmail.com
+web=https://shandikadav.my.id
+numi=https://numicommunity.web.id
 </pre>
