@@ -29,7 +29,7 @@ Founder @ NUMI (Community • Dev • Brand)
 <br/>
 
 <div align="center">
-  <img src="assets/kurumi.gif" width="75%" />
+  <img src="assets/kurumi-banner.gif" width="90%" />
 </div>
 
 <br/>
@@ -56,15 +56,16 @@ $ tree tech
 .
 ├── mobile
 │   ├── kotlin
-│   ├── flutter
-│   └── dart
+│   ├── dart
+│   ├── jetpack compose
+│   └── flutter
 ├── web
 │   ├── react
 │   ├── typescript
 │   └── tailwindcss
 └── apple
     ├── swift
-    ├── swiftui
+    └── swiftui
 </pre>
 
 <hr/>
@@ -81,7 +82,7 @@ $ cat notes.txt
 
 <pre>
 $ env
-editor=zed
+editor=antigravity
 shell=zsh
 
 primary=macbook
